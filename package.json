@@ -1,0 +1,14 @@
+{
+  "name": "app.xrdm.externalsdk",
+  "version": "2024.35.0",
+  "displayName": "XRDM SDK",
+  "description": "XRDM platform SDK for Android-based Unity applications.",
+  "author": {
+    "name": "ABXR Labs",
+    "url": "https://arborxr.com/"
+  },
+  "documentationUrl": "https://documentation.xrdm.app/docs/devicepublicapi/",
+  "licensesUrl": "https://arborxr.com/terms-of-service/",
+  "unity": "2019.4",
+  "unityRelease": "26f1"
+}
